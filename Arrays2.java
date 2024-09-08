@@ -52,7 +52,7 @@ public class Arrays2 {
         for(int r[]:crr)
         {                  // you can use Arrays.deeptoString() to print array elements
             
-            for(int i :r)
+            for(int y :r)
             {
                 System.out.print(y+"  ");
 
