@@ -54,7 +54,7 @@ public class Arrays2 {
             
             for(int i :r)
             {
-                System.out.print(n+"  ");
+                System.out.print(y+"  ");
 
             }
             System.out.println();
